@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ITMaaz!
 - 👀 I’m interested in learning progrmming languages.
 - 🌱 I’m currently learning python webmastery.
-- 💞️ I’m looking to collaborate on microsoft.
+- 💞️ I’m looking to collaborate with microsoft.
 - 📫 How to reach me m.maazanwar2006@gmail.com
 
 <!---
